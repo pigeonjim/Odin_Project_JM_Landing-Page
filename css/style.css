@@ -1,20 +1,24 @@
 body{
     margin: 0px;
 }
-.header .wrenpic{
+.wrenPic{
     width: 5%;
-    border-width: 5px;
     border-radius: 50%;
+}
+
+.hero, .header{
+    background-color: #1F2937;
+    padding: 10px;
+    color: white;
+    
 }
 
 .header{
     display: flex;
     justify-content: space-around;
-    background-color: #1F2937;
-    padding: 10px;
     align-items: center;
-    
 }
+
 
 .header .links a{
     font-family: 'Roboto', sans-serif;
@@ -30,4 +34,24 @@ body{
 
 .header .links a:hover{
     color: darkgrey;
+}
+
+.hero{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+}
+
+.coePic{
+    width: 20%;
+    height: 20%;
+}
+.heroMainText{
+    font-size: 48px;
+    font-weight: 1000;
+    color: #f9faf8;
+}
+.heroSubText{
+    font-size: 18px;
+    color: #e5e7eb;
 }
