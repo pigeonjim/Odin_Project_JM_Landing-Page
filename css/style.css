@@ -1,18 +1,33 @@
+body{
+    margin: 0px;
+}
 .header .wrenpic{
     width: 5%;
     border-width: 5px;
-    border-color: black;
+    border-radius: 50%;
 }
+
 .header{
     display: flex;
     justify-content: space-around;
-    background-color: #1f2937;
-    padding: 10px
+    background-color: #1F2937;
+    padding: 10px;
+    align-items: center;
+    
 }
+
 .header .links a{
     font-family: 'Roboto', sans-serif;
     color: white;
+    text-decoration: none;
 }
+
+.header .links{
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+}
+
 .header .links a:hover{
     color: darkgrey;
 }
