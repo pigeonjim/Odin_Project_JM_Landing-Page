@@ -17,5 +17,5 @@ https://www.pexels.com/photo/colorful-abstract-painting-3679453/
 Image of Autumn Leaves Taken by Tomas Anunziata- Downloaded from pexels.com
 https://www.pexels.com/photo/vivid-autumn-leaves-scattered-on-ground-695207/
 
-Image of Puffins Taken by Till Rottmann - Downloaded from pexels.com
-https://www.pexels.com/photo/black-and-white-birds-on-green-grass-3611393/
+Image of Beach Taken by Till Rottmann - Downloaded from pexels.com
+https://www.pexels.com/photo/green-trees-beside-body-of-water-3576263/
