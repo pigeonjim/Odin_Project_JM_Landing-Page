@@ -42,8 +42,9 @@ body{
 }
 
 .coePic{
-    width: 15%;
-    height: 15%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
 }
 .heroLHS{
     display: flex;
