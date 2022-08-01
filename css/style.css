@@ -1,6 +1,6 @@
 body{
     margin: 0px;
-    font-family: 'Roboto', sans-serif;
+   font-family: 'Roboto', sans-serif;
 }
 .wrenPic{
     width: 5%;
@@ -19,7 +19,6 @@ body{
     justify-content: space-around;
     align-items: center;
 }
-
 
 .header .links a{
     color: white;
@@ -93,6 +92,64 @@ body{
     text-align: center;
 }
 .info{
-    padding-left: 400px;
-    padding-right: 400px;
+    padding: 50px 400px 100px 400px;
+    
+}
+
+.quoteSection{
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.mainQuote{
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    align-self: center;
+    width: 750px;
+    margin: 0px;
+}
+.quoteWho{
+    text-align: center;
+    font-weight: 800;
+    font-size: 18px;
+    margin: 0px;
+}
+
+
+.footer{
+    margin: 100px auto 100px auto;
+    background-color: #3882f6;
+    color: #f9faf8;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px;
+    border-radius: 10px;
+    gap: 20px;
+    width: 500px;
+    align-self: center;
+    }
+.footerText1, .footerText2{
+    font-weight: 18px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.footerText1{
+    font-weight: 800;
+}
+
+
+.footTextDiv{
+    display: flex;
+    flex-direction: column;
+}
+
+.footerButton{
+    border: 2px solid white;
+    text-align: center;
 }
