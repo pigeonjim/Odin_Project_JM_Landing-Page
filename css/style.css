@@ -7,8 +7,12 @@
     display: flex;
     justify-content: space-around;
     background-color: #1f2937;
+    padding: 10px
 }
 .header .links a{
     font-family: 'Roboto', sans-serif;
     color: white;
+}
+.header .links a:hover{
+    color: darkgrey;
 }
